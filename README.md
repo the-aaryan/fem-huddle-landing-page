@@ -15,7 +15,7 @@ This is a solution to the [Manage Landing Page Challenge on Frontend Mentor](htt
 
 ## Links
 
-- [LIve Site URL](https://the-aaryan.github.io/fem-manage-landing-page/)
+- [LIve Site URL](https://the-aaryan.github.io/fem-huddle-landing-page/)
 - [Frontend-Mentor Solution URL](https://www.frontendmentor.io/profile/the-aaryan)
 
 ## The Challange
